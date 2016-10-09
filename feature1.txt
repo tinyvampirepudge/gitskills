@@ -2,3 +2,6 @@ master feature1
 Creating a new branch is quick & simple
 new dev added
 dev added again
+dev added once again
+once again:wq
+
